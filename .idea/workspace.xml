@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2bc1140c-3204-49f5-9ba6-2604ba4561d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/medical appointment project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Medical_appointment_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hyperparameter_tuning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Feature_Importance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Final_Model_Performance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Threshold_Analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/model_comparison.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/model_performance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/prediction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
-    </list>
+    <list default="true" id="2bc1140c-3204-49f5-9ba6-2604ba4561d8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
